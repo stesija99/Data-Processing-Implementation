@@ -75,7 +75,7 @@ pip install -r requirements.txt
 export PYTHONPATH=$(pwd)
 ```
 
-2. Run individual scripts as needed
+2. Run individual scripts as needed in this order
 - For data loading:
 ```
 python scripts/data_loading.py
